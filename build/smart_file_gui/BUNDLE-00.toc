@@ -1,0 +1,3 @@
+([('smart_file_gui',
+   '/Users/pratyushkumarsahoo/smart_file_scanner/dist/smart_file_gui',
+   'EXECUTABLE')],)

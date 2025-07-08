@@ -1,0 +1,3 @@
+([('SmartScanner',
+   '/Users/pratyushkumarsahoo/smart_file_scanner/dist/SmartScanner',
+   'EXECUTABLE')],)
