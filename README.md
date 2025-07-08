@@ -1,3 +1,4 @@
+
 # 🔐 Smart File Scanner & Organizer
 
 A desktop tool that scans uploaded folders, detects sensitive information (like passwords, emails, account numbers), and automatically organizes files into folders like `Sensitive`, `Documents`, or `Others`.
@@ -19,3 +20,5 @@ A desktop tool that scans uploaded folders, detects sensitive information (like 
 ```bash
 pip install -r requirements.txt
 python smart_file_gui.py
+=======
+
